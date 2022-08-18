@@ -1,0 +1,12 @@
+{
+    "administrator": {
+        
+            "username": "Administrator",
+            "password": "xisE4P5DsjT4Hq"
+    },
+    
+    "standardUser": {
+        "username": "david.ketler@dev.customer00002.com",
+        "password": "password"
+    }
+}
