@@ -39,7 +39,7 @@ describe("Tests for a standard user account.", () => {
         cy.get('#editBlog_4').should('not.exist')
     })
 
-    it.only("Attempt to add a blog post while logged in as a standard user.", () => {
+    it("Attempt to add a blog post while logged in as a standard user.", () => {
         cy.fixture("users").then((credentials) => {
             cy.login(credentials.standardUser.username, credentials.standardUser.password);
         })
