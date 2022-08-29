@@ -1,10 +1,9 @@
 # Specops Software Assessment
 
-As part of our Test Automation Engineer recruitment process, we request that any applicants com-
-plete a technical asssessment step. This technical assessment is used as the base for the next phase
+As part of our Test Automation Engineer recruitment process, we request that any applicants complete a technical asssessment step. This technical assessment is used as the base for the next phase
 of the interview process. The follow-up interview will discuss:
 
--The completed test suite: what tests were written and why
+- The completed test suite: what tests were written and why
 - Any issues with the implementation of the tests
 - Any issues with the web application itself: were any bugs discovered that would need to be filed?
 - And lastly, general questions about previous experience, interests, and questions you have for us
@@ -19,8 +18,7 @@ new project.
 ## The Web App
 
 Imagine we are building a new Cryptocurrency platform for sale on the general market. The dev-
-team has completed their initial MVP of the website for the coin. The Blockchain work is still ongo-
-ing on the backend, but the QA team has been asked to complete automated UI tests for the website. The website was built by the development team in .NET MVC, with an SQL backend; CI/CD has
+team has completed their initial MVP of the website for the coin. The Blockchain work is still ongoing on the backend, but the QA team has been asked to complete automated UI tests for the website. The website was built by the development team in .NET MVC, with an SQL backend; CI/CD has
 been implemented and the application is published to an Azure site.
 
 
