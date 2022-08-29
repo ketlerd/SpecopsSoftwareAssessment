@@ -114,8 +114,7 @@ To run the tests interactively, and have the tests run when you make changes, na
 you extracted the test suite to, ie: ∼/SpecopsSoftwareAssessment, type npx cypress open, and
 press Return. You will then see the Cypress UI appear. Click the E2E Testing button, select your
 browser of choice, and click Start E2E testing in <browser>. You will then see the list of test
-specs that can be run; you can return to the list by clicking on the Specs button on the left-hand-
-side. As you make changes to the spec you last ran, Cypress will execute the changes upon detecting
+specs that can be run; you can return to the list by clicking on the Specs button on the left-hand-side. As you make changes to the spec you last ran, Cypress will execute the changes upon detecting
 a file change. If you want to run a specific test only, you can add the command only to the test, ie
 it.only("Attempt to login).
 
